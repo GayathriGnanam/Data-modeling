@@ -1,0 +1,1 @@
+This data modeling project actually connects customers (passengers) with drivers through trips. The trip management business of Uber analyzes trip counts, driver idle time, and trip acceptance time to optimize its operations. 
